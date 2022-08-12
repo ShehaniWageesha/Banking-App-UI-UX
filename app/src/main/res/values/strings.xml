@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">uee_app</string>
+    <string-array name="products">
+        <item>Select</item>
+        <item>Fixed Deposit</item>
+        <item>Current Account</item>
+    </string-array>
+    <string-array name="productType">
+        <item>Select</item>
+        <item>Fixed Deposit</item>
+        <item>Current Account</item>
+    </string-array>
+    <string-array name="cusType">
+        <item>Select</item>
+        <item>Fixed Deposit</item>
+        <item>Current Account</item>
+    </string-array>
+</resources>
